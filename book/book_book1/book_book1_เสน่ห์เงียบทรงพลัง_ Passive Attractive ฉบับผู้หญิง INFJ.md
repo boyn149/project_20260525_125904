@@ -28,7 +28,9 @@
 *   **ศิลปะของการเป็นกระจกสะท้อน:** ผู้หญิง INFJ สามารถปรับคลื่นความถี่ให้เข้ากับเป้าหมายได้โดยสัญชาตญาณ คุณรู้ว่าควรรับฟังอย่างไรให้เขารู้สึกว่าตัวเองเป็นคนสำคัญ ซึ่งสอดคล้องกับคุณลักษณะของ *The Ideal Lover* ที่ดึงดูดเป้าหมายด้วยการเติมเต็มสิ่งที่พวกเขาขาดหายไปในใจ 
 *   **ความอบอุ่นที่ดักจับหัวใจ:** ขณะที่ *Ni* ดึงดูดคนให้เข้ามาด้วยความสงสัย *Fe* จะทำหน้าที่รั้งพวกเขาไว้ด้วยความสบายใจ คุณสามารถสร้างพื้นที่ปลอดภัยให้เป้าหมายได้เปิดเผยตัวตน ซึ่งเป็นการวางกับดักทางความรู้สึกที่แยบยลที่สุด 
 
-[PROMPT: A minimal 16:8 informational infographic about INFJ Cognitive Functions (Ni and Fe) in Thai language. White background, simple and elegant design. The infographic must show how "Ni" represents Mystery and "Fe" represents Warmth/Empathy. All text in the image MUST be in Thai language only.]
+![Infographic](https://raw.githubusercontent.com/boyn149/ÿþp r o j e c t _ 2 0 2 6 0 5 2 5 _ 1 2 5 9 0 4 
+ 
+ /main/book/book_book1/pic_book1/infographic_book1_1.png)
 
 เพื่อให้เห็นภาพที่ชัดเจนขึ้น เอสเธอร์ได้สรุปข้อแตกต่างของการดึงดูดแบบทั่วไป เทียบกับวิถีของ INFJ ไว้ในตารางด้านล่างนี้ค่ะ
 
@@ -46,7 +48,9 @@
 
 เมื่อเราทำความเข้าใจฟังก์ชันตามธรรมชาติของตัวเองกันไปแล้ว คราวนี้ก็ถึงเวลาลงสนามจริงค่ะ เอสเธอร์จะพาคุณหยิบเอาหนังสือระดับตำนานอย่าง *The Art of Seduction* ของ Robert Greene มาประยุกต์ใช้ เคล็ดลับของหนังสือเล่มนี้คือการบอกเราว่า "การดึงดูดที่แท้จริงคือเกมทางจิตวิทยา ไม่ใช่การใช้กำลังหรือรุกเร้า" ซึ่งตรงกับจริตของผู้หญิง INFJ อย่างเราแบบพอดีเป๊ะเลยค่ะ เราจะมาเปลี่ยนความเงียบให้กลายเป็นหลุมพรางที่หอมหวาน เพื่อให้เป้าหมายเป็นฝ่ายเดินเข้ามาหาเราเองโดยที่คุณแทบไม่ต้องออกแรงวิ่งตามเลย
 
-[PROMPT: A minimal 16:8 illustration of a magnetic chess piece gently pulling another piece towards it without touching, using soft pastel colors on a clean white background, symbolizing passive attraction and psychological pull.]
+![Infographic](https://raw.githubusercontent.com/boyn149/ÿþp r o j e c t _ 2 0 2 6 0 5 2 5 _ 1 2 5 9 0 4 
+ 
+ /main/book/book_book1/pic_book1/infographic_book1_2.png)
 
 กลยุทธ์การดึงดูดที่ทรงพลังที่สุดและสอดคล้องกับธรรมชาติของผู้หญิง INFJ สามารถแบ่งออกได้เป็น 3 รูปแบบหลัก ดังนี้ค่ะ:
 
@@ -67,7 +71,9 @@
 
 >💡 **กฎเหล็กของเอสเธอร์** : เสน่ห์แบบ *Passive Attractive* ไม่ใช่การนั่งรอเฉยๆ ให้ความรักหล่นทับนะคะ แต่มันคือการ "จัดวางตัวเอง" ให้อยู่ในจุดที่อีกฝ่ายปฏิเสธไม่ได้ที่จะสนใจ จงใช้ความสงบเป็นอาวุธ และปล่อยให้ความลึกลับทำงานแทนคุณค่ะ
 
-[PROMPT: A minimal 16:8 Educational Infographic (Process Infographic) showing a 3-step passive attraction strategy for INFJ. Step 1: 'สังเกตและเข้าใจ (Fe)'. Step 2: 'เว้นระยะห่าง (Introversion)'. Step 3: 'สร้างความลึกลับน่าค้นหา (Ni)'. Use soft pastel arrows and icons on a clean white background. All text in the image MUST be completely in Thai language.]
+![Infographic](https://raw.githubusercontent.com/boyn149/ÿþp r o j e c t _ 2 0 2 6 0 5 2 5 _ 1 2 5 9 0 4 
+ 
+ /main/book/book_book1/pic_book1/infographic_book1_3.png)
 
 ท้ายที่สุดแล้ว การดึงดูดใครสักคนด้วยเสน่ห์แบบไม่ต้องเป็นฝ่ายรุก ไม่ใช่การฝืนสวมหน้ากากหรือเล่นเกมจิตวิทยาที่เหนื่อยล้า แต่มันคือการเข้าใจและโอบรับกลไกธรรมชาติในตัวคุณเองที่มีทั้งความเห็นอกเห็นใจและความลึกลับซับซ้อน เพียงแค่คุณนำมันมาจัดวางอย่างถูกจังหวะ รู้เท่าทันอารมณ์ของตนเอง คุณก็จะสามารถแปรเปลี่ยนความเงียบสงบให้กลายเป็นแรงดึงดูดที่ทรงพลัง ดึงดูดคนที่คู่ควรให้ก้าวเข้ามาในโลกของคุณได้อย่างงดงามและยั่งยืนค่ะ
 
